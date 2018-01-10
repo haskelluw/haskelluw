@@ -2,7 +2,7 @@
 
 ## The Short Version
 
-We are dedicated to providing an inclusive and harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, race, ethnicity, age, religion, education, occupation, income, or socioeconomic status. We welcome participation and do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks. Participants violating these rules may be sanctioned or expelled from the group at the discretion of the organizers. Our anti-harassment policy can be found at [github.com/zhiyanfoo/](https://github.com/cville/conduct).
+We are dedicated to providing an inclusive and harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, race, ethnicity, age, religion, education, occupation, income, or socioeconomic status. We welcome participation and do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks. Participants violating these rules may be sanctioned or expelled from the group at the discretion of the organizers. Our anti-harassment policy can be found at [github.com/zhiyanfoo/haskell-uw/blob/master/CONDUCT.md](https://github.com/zhiyanfoo/haskell-uw/blob/master/CONDUCT.md).
 
 ---
 
@@ -17,11 +17,6 @@ Organizers implement this Code of Conduct by doing the following:
 ---
 
 ## Useful Phone Numbers
-
-* **Yellow Cab:** Call 434-295-4131 or text address to 434-202-5525.
-* **Non-Emergency Police:** 434-970-3280.
-* **Sexual Assault 24-Hour Hotline:** 434-977-7273.
-* **UVA Health System Emergency Department:** 434-924-2231.
 
 ### On-campus contacts
 
@@ -106,4 +101,4 @@ In general, consult with other organizers when possible but act when necessary.
 
 This policy is licensed under the Creative Commons Zero license. It is public domain, no credit and no open licensing of your version is required.
 
-It was forked on Sep 23, 2014, from the example policy from the [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment_policy), created by the Ada Initiative and other volunteers.
+This was forked on Jan 09, 2017 from [github.com/cville/conduct](https://github.com/cville/conduct). Which was itself forked on Sep 23, 2014, from the example policy from the [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment_policy), created by the Ada Initiative and other volunteers.
