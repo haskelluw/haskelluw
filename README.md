@@ -1,22 +1,18 @@
-# Charlottesville Meetup/Group Code of Conduct
+# Haskell UW Meetup/Group Code of Conduct
 
 ## The Short Version
 
-We are dedicated to providing an inclusive and harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, race, ethnicity, age, religion, education, occupation, income, or socioeconomic status. We welcome participation and do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks. Participants violating these rules may be sanctioned or expelled from the group at the discretion of the organizers. Our anti-harassment policy can be found at [github.com/cville/conduct](https://github.com/cville/conduct).
+We are dedicated to providing an inclusive and harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, race, ethnicity, age, religion, education, occupation, income, or socioeconomic status. We welcome participation and do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks. Participants violating these rules may be sanctioned or expelled from the group at the discretion of the organizers. Our anti-harassment policy can be found at [github.com/zhiyanfoo/](https://github.com/cville/conduct).
 
 ---
 
 ## About this Code of Conduct
 
-This code of conduct is a collaboration in the Charlottesville community to proactively create a safe and inclusive environment for participants of meetups, group, and online groups. Organizers implement this Code of Conduct by doing the following:
+Organizers implement this Code of Conduct by doing the following:
 
 1. Link this Code of Conduct to the main page of the organization.
 2. Provide contact information of an Organizer with the Code of Conduct link.
 3. Summarize this Code of Conduct at the start of events.
-
-Contributors to this Code of Conduct are [listed here](https://github.com/cville/conduct/graphs/contributors). If you would like to comment or contribute revisions, you can submit a note or a pull request in the [issues](https://github.com/cville/conduct/issues) area. See [previous discussions here](https://github.com/cville/conduct/issues?q=). You can find a wiki list of known organizations using this Code of Conduct [here](https://github.com/cville/conduct/wiki/Organizations-using-this-code-of-conduct).
-
-In particular, note that any feedback to the Code of Conduct is itself subject to the Code of Conduct.
 
 ---
 
@@ -26,6 +22,22 @@ In particular, note that any feedback to the Code of Conduct is itself subject t
 * **Non-Emergency Police:** 434-970-3280.
 * **Sexual Assault 24-Hour Hotline:** 434-977-7273.
 * **UVA Health System Emergency Department:** 434-924-2231.
+
+### On-campus contacts
+
+* **UW Police** - 519-888-4567 ext. 22222. For emergency services on campus 24/7.
+* **Counselling Services** - 519-888-4567 ext. 32655. Offers same-day appointments for emergencies and can be found in the Needles Hall addition on the 2nd Floor.
+* **Health Services** - Student Medical Clinic - 519-888-4096. Offers walk-in appointments for urgent concerns and can be found in Health Services building .
+
+### After-hours contacts
+
+* **Grand River Hospital** - 519-749-4300
+* **St. Mary's Hospital** - 519-744-3311
+* **Good2Talk** - 1-866-925-5454
+* **Here 24/7** - 1-844-437-3247
+* **Crisis Services Canada** - 1-833-456-4566 or by text 45645  
+* **Kitchener-Waterloo Sexual Assault Support Centre** - 519-741-8633
+* **Telecare Cambridge Distress Line** - 519-658-5455
 
 ---
 
