@@ -62,7 +62,33 @@ Haskell
 (+ 1) . abs $ -1 -- 2
 ```
 
-### Multiple Prints
+### Structs/Algebraic Data Types
+
+Racket
+```racket
+(define-struct maybe-error (value error))
+```
+
+Haskell
+```
+data MaybeError a = Value a | String
+```
+
+### Structs/Algebraic Data Types (More Complex)
+
+
+Racket
+```racket
+(define-struct tree (value left right))
+(define t (make-tree 1 empty empty))
+(tree-left t) -- empty
+```
+Haskell
+```
+data Tree a = Tree a (Tree a) (Tree a)| Empty deriving (Show) 
+-- deriving (Show) is optional
+t = Tree 1 Empty Empty
+```
 
 ```racket
 #lang racket
