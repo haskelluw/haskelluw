@@ -73,31 +73,6 @@ Haskell
 ```
 data MaybeError a = Value a | String
 ```
-
-### Structs/Algebraic Data Types (More Complex)
-
-
-Racket
-```racket
-(define-struct tree (value left right))
-(define t (make-tree 1 empty empty))
-(tree-left t) -- empty
-```
-Haskell
-```
-data Tree a = Tree a (Tree a) (Tree a)| Empty deriving (Show) 
--- deriving (Show) is optional
-t = Tree 1 Empty Empty
-```
-
-```racket
-#lang racket
-
-"helloword"
-```
-Haskell
-```
-module Main where
-
-main = print "helloworld"
-```
+Given Racket's dynamic nature, as opposed to Haskell's strongly typed nature,
+structs and algebraic data types are quite different, but are used to achieve
+the same results.
