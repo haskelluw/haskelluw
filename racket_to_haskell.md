@@ -5,7 +5,7 @@ Racket
 ```racket
 #lang racket
 
-"helloword"
+"helloworld"
 ```
 Haskell
 ```
