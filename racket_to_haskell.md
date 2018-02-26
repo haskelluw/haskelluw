@@ -71,7 +71,7 @@ Racket
 
 Haskell
 ```
-data MaybeError a = Value a | String
+data MaybeError a = Value a
 ```
 Given Racket's dynamic nature, as opposed to Haskell's strongly typed nature,
 structs and algebraic data types are quite different, but are used to achieve
